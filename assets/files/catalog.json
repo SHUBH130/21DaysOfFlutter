@@ -1,0 +1,78 @@
+{
+   "products": [
+       {
+        "id": 1,
+        "name": "iPhone 12 Pro",
+        "desc": "Apple iPhone 12th Generation",
+        "price": 999,
+        "color": "#33505a",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       },
+       {
+        "id": 2,
+        "name": "Pixel 5",
+        "desc": "Google Pixel Phone 5th Generation",
+        "price": 699,
+        "color": "#00ac51",
+        "image":
+        "htpps://images.app.goo.gl/BWi4KJGWpJG8EH5v9"
+       },
+       {
+        "id": 3,
+        "name": "M1 Macbook Air",
+        "desc": "Apple Macbook Air with Apple Silicon",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       },
+       {
+        "id": 4,
+        "name": "Playstation 5",
+        "desc": "Sony Playstation 5th Generation",
+        "price": 500,
+        "color": "#544ee4",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       },
+       {
+        "id": 5,
+        "name": "Airpods Pro",
+        "desc": "Apple Airpods Pro 1st Generation",
+        "price": 200,
+        "color": "#e3e4e9",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       },
+       {
+        "id": 6,
+        "name": "iPad Pro",
+        "desc": "Apple iPod Pro 2020 Edition",
+        "price": 799,
+        "color": "#f73984",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       },
+       {
+        "id": 7,
+        "name": "Galaxy S21 Ultra",
+        "desc": "Samsung Galaxy S21 Ultra Edition",
+        "price": 1299,
+        "color": "#1c1c1c",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       },
+       {
+        "id": 8,
+        "name": "Galaxy S21",
+        "desc": "Samsung Galaxy S21 2021 Edition",
+        "price": 899,
+        "color": "#7c95eb",
+        "image":
+        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+       }
+       
+
+   ]
+}
