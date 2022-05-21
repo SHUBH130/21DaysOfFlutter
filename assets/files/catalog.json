@@ -7,16 +7,16 @@
         "price": 999,
         "color": "#33505a",
         "image":
-        "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"
+        "https://pngimg.com/uploads/iphone_12/small/iphone_12_PNG30.png"
        },
        {
         "id": 2,
-        "name": "Pixel 5",
-        "desc": "Google Pixel Phone 5th Generation",
-        "price": 699,
+        "name": "Apple Watch 7",
+        "desc": "Apple Watch Series 7",
+        "price": 499,
         "color": "#00ac51",
         "image":
-        "https://m.media-amazon.com/images/I/81AqwYyZjzL._AC_SL1500_.jpg"
+        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MKUE3_VW_PF+watch-41-alum-blue-nc-7s_VW_PF_WF_SI?wid=2000&hei=2000&fmt=png-alpha&.v=1632171048000,1631661097000"
        },
        {
         "id": 3,
@@ -34,7 +34,7 @@
         "price": 500,
         "color": "#544ee4",
         "image":
-        "https://assets-prd.ignimgs.com/2020/06/12/playstation-5-button-02-1591933908407.jpg"
+        "https://static.wikia.nocookie.net/gran-turismo/images/d/d0/Playstation-5-games-console-transparent-background-png-image.png/revision/latest?cb=20201106171401"
        },
        {
         "id": 5,
@@ -52,7 +52,7 @@
         "price": 799,
         "color": "#f73984",
         "image":
-        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202104_FMT_WHH?wid=1945&hei=2000&fmt=jpeg&qlt=95&.v=1617126635000"
+        "https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MHW53HN_A_1.png?v=1631168926"
        },
        {
         "id": 7,
@@ -61,7 +61,7 @@
         "price": 1299,
         "color": "#1c1c1c",
         "image":
-        "https://m.media-amazon.com/images/I/71PvHfU+pwL._SL1500_.jpg"
+        "https://images.samsung.com/is/image/samsung/p6pim/levant/2202/gallery/levant-galaxy-s22-ultra-s908-413037-sm-s908ezggmea-530970243"
        },
        {
         "id": 8,
@@ -70,7 +70,7 @@
         "price": 899,
         "color": "#7c95eb",
         "image":
-        "https://m.media-amazon.com/images/I/71HUnJvHsbL._SL1500_.jpg"
+        "https://images.samsung.com/is/image/samsung/p6pim/my/2202/gallery/my-galaxy-s22-plus-s906-sm-s906ezgdxme-530765219"
        }
        
 
