@@ -12,8 +12,15 @@ class CatalogModel {
         price: 999,
         color: "#33606a",
         image:
-            "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg")
+            "https://maalgadi.in/wp-content/uploads/2021/06/apple_iphone-12_2-up_geo_10132020_inline.jpg.large_.jpg"),
   ];
+
+  //get item by id
+  static Item getById(int id) =>
+      items.firstWhere((element) => element.id == id, orElse: null);
+
+  //get item by position
+  static Item getByPosition(int pos) => items[pos];
 }
 
 class Item {
