@@ -4,6 +4,10 @@ import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 
 class CatalogModel {
+  static final catModel = CatalogModel._internal();
+  CatalogModel._internal();
+  factory CatalogModel() => catModel;
+
   static List<Item> items = [
     Item(
         id: 1,
@@ -38,6 +42,8 @@ class Item {
       required this.price,
       required this.color,
       required this.image});
+
+  get text => null;
 
   Item copyWith({
     int? id,
